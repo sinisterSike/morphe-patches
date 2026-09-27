@@ -1,14 +1,14 @@
-group = "sinister.sike"
+group = "app.sinistersike.morphe-patches"
 
 patches {
     // TODO: Update this section with your project details.
     about {
         name = "UserXYZ Patches"
         description = "Patches for apps I like"
-        source = "git@github.com:sinisterSike/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        source = "https://github.com/sinisterSike/morphe-patches.git"
+        author = "sinisterSike"
+        contact = "https://github.com/sinisterSike"
+        website = "https://morphe.software/add-source?github=rushiranpise/morphe-patches"
         license = "GPLv3"
     }
 }
